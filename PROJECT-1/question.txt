@@ -1,0 +1,56 @@
+Awesome! Time for your Weekly Python Project – Week 1 🎯
+(Based on concepts you've learned so far – inputs, conditions, loops, functions, lists, strings, etc.)
+
+---
+
+🧾 Project Title: Mini Student Report Card Generator
+
+---
+
+🎯 Objective:
+Create a Python program that:
+1. Takes a student's name and roll number
+2. Asks for marks in 5 subjects
+3. Calculates:
+   - Total marks
+   - Percentage
+   - Grade (using conditions)
+4. Displays a formatted report card
+
+---
+
+📋 Requirements:
+
+- Input:
+  - Student name
+  - Roll number
+  - 5 subjects' marks (out of 100)
+
+- Processing:
+  - Total = sum of 5 marks
+  - Percentage = total / 5
+  - Grade logic:
+    - 90+ → A+
+    - 80–89 → A
+    - 70–79 → B
+    - 60–69 → C
+    - 50–59 → D
+    - Below 50 → Fail
+
+- Output:
+  - Print the final report card clearly showing:
+    - Name, Roll No
+    - Marks in each subject
+    - Total, Percentage, Grade
+
+---
+
+🧠 Hints:
+- Use list to store marks
+- Use function to calculate grade
+- Bonus: Add subject names for more practice
+
+---
+
+📌 Jab complete ho jaaye, bhejna review ke liye.
+Main feedback, improvements aur extension ideas dunga.
