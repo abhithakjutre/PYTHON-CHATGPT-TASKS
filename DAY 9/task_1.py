@@ -10,13 +10,7 @@ for i in range(1,6):
     numbers = int(input(f"Enter {i} number: "))
     num_list.append(numbers)
 
-
 result = 1
-
-for j in range(1,6): 
-    for item in range(0,5): 
-     result+=num_list[item]*num_list[j+1]
-
-
-
-print(result)
+for item in num_list: 
+    result*=item
+print(f"Multiply of list: {result}")

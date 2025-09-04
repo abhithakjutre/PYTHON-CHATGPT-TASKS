@@ -1,0 +1,43 @@
+Great! Here's your *Day 9 Python Tasks* — a little more challenging to keep you growing 🚀
+
+---
+
+🔹 *Task 1: Multiply All Items in a List*
+- User se 5 numbers lo.
+- List me store karo.
+- Saare numbers ko multiply karke final product print karo.
+
+---
+
+🔹 *Task 2: Find the Second Smallest Number*
+- 6 numbers lo user se.
+- List me store karo.
+- Second smallest number print karo (without using `sort()`).
+
+---
+
+🔹 *Task 3: Function to Check Armstrong Number (Generalized)*
+- Function `is_armstrong(n)` banao.
+- Wo check karein kya number Armstrong hai (chahe 3-digit ho ya 4-digit).
+  - Example: 9474 → 9⁴ + 4⁴ + 7⁴ + 4⁴ = 9474 ✅
+
+---
+
+🔹 *Task 4: Create Dictionary from 2 Lists*
+- List1: Names → `["Ram", "Shyam", "Geeta"]`
+- List2: Marks → `[85, 90, 78]`
+- Ek dictionary banao jisme name = key, marks = value
+
+---
+
+🔹 *Task 5: Password Strength Checker*
+- User se password input lo.
+- Check karo:
+  - At least 8 characters
+  - Contains letter, digit, and special character
+- Output: Strong / Weak
+
+---
+
+Let me know after you're done for *rating + quote*, and ready for feedback!  
+You got this 💪🔥
