@@ -8,7 +8,10 @@
 sentence = input("Enter a sentence: ")
 
 a_to_z = "abcdefghijklmnopqrstuvwxyz"
-sentence = sentence.lower()
+
+if all(char in sentence for char in a_to_z):
+    print("Pangram")
+else:
+    print("Not Pangram")
 
 
-print(sentence)
